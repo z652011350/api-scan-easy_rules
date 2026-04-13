@@ -13,7 +13,6 @@ data/
 !.claude/skills/*/config/.gitkeep
 
 # 规则文件
-rule.json
 all_extracted_rules_strict.json
 
 # Python
